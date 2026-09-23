@@ -1,3 +1,3 @@
 # about
 
-Jonas Enlund's about page: https://jonas-prorius.github.io/about/
+Jonas Enlund's about page: [jonas-prorius.github.io/about](https://jonas-prorius.github.io/about/)
