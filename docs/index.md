@@ -1,6 +1,6 @@
 # Jonas Enlund
 
-### Software Engineer · Builder · Problem Solver
+*Software Engineer · Builder · Problem Solver*
 
 Welcome — this site is my curriculum vitae and portfolio, published straight from Markdown.
 
@@ -11,7 +11,7 @@ Welcome — this site is my curriculum vitae and portfolio, published straight f
 ## Navigate
 
 | Page | Description |
-|---|---|
+| --- | --- |
 | [About](about.md) | Who I am, beyond the job titles |
 | [CV](cv.md) | Full curriculum vitae — experience, education, skills |
 | [Portfolio](portfolio.md) | Selected projects and case studies |
