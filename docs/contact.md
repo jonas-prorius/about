@@ -7,8 +7,8 @@ I'm always happy to hear from people — whether it's about opportunities, colla
 ## Get in Touch
 
 | Channel | Details |
-|---|---|
-| Email | placeholder@example.com |
+| --- | --- |
+| Email | [placeholder@example.com](mailto:placeholder@example.com) |
 | LinkedIn | [linkedin.com/in/placeholder](https://www.linkedin.com/) |
 | GitHub | [github.com/placeholder](https://github.com/) |
 | Location | Placeholder City, Placeholder Country |
